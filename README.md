@@ -1,4 +1,4 @@
-Zde se nachází: \n
+Zde se nachází: 
 Zombie hra v Godotu 
 JavaFX sešit
 Composer sešit
