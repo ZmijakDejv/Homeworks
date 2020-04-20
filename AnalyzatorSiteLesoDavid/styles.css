@@ -1,0 +1,52 @@
+body {
+    font-family: 'VT323', monospace;
+    align-self: start;
+    margin: 0;
+    background-image: url(back3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: olivedrab;
+    background-color: royalblue;
+}
+
+
+header {
+    width: 100%;
+    height: 60px;
+    background-color: orange;
+    position: fixed;
+    font-size: 17pt;
+    margin-top: -75px;
+}
+
+main {
+    position: relative;
+    width: 90vw;
+    margin-top: 75px;
+    height: 550px;
+    background-color: oldlace;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    padding: 20px;
+    padding-top: 100px;
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    font-size: 18pt;
+}
+
+#obsah{
+    margin-top: -80px;
+    width: 100%;
+    height: 100%;
+}
+
+
+
+form{
+    margin-left: 80px;
+}
+
+
+input {
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
